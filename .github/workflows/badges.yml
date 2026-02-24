@@ -2,7 +2,7 @@ name: Update Badges
 on:
   schedule:
     - cron: "0 0 * * *" # Runs every night at midnight
-  workflow_dispatch: # Allows you to run it manually
+  workflow_dispatch: # Allows me to run it manually
 
 jobs:
   update-badges:
