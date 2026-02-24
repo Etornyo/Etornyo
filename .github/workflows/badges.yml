@@ -11,8 +11,9 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
-      - uses: pemtajo/badge-readme@main
+      - name: Generate Badges
+        uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: etornyo-kwame-dzeke
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPOSITORY: ${{ github.repository }} # This tells the robot exactly where to save
+          COMMIT_MESSAGE: "chore: update credly badges [skip ci]"
