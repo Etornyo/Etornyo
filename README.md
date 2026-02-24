@@ -40,10 +40,12 @@ While I manage 30+ branches of banking infrastructure—handling everything from
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
-| **Infrastructure** | Windows Server, VxRail, vCenter, Active Directory, PRTG |
-| **Security & FinTech** | **API Security**, PCI DSS, SWIFT Platforms, Vulnerability Management |
-| **AI & Programming** | Python, TensorFlow, Scikit-Learn, Computer Vision |
-| **Cloud** | AWS Academy, Google Cloud Essentials |
+| **Infrastructure** | ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows-server&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white) |
+| **Security & FinTech** | ![API Security](https://img.shields.io/badge/API_Security-FF0000?style=flat-square&logo=owasp&logoColor=white) ![PCI DSS](https://img.shields.io/badge/PCI_DSS-Compliance-gold?style=flat-square) ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white) |
+| **AI & Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Cloud & Mobile** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+
+---
 
 ---
 
