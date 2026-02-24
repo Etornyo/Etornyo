@@ -1,15 +1,17 @@
 name: Update Badges
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every night at midnight
-  workflow_dispatch: # Allows me to run it manually
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   update-badges:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
       - uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: etornyo-kwame-dzeke #My Credly handle
-        
+          CREDLY_USER: etornyo-kwame-dzeke
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
