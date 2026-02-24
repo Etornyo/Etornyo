@@ -1,0 +1,15 @@
+name: Update Badges
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every night at midnight
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: pemtajo/badge-readme@main
+        with:
+          CREDLY_USER: etornyo-kwame-dzeke #My Credly handle
+          CREDLY_SORT: RECENT

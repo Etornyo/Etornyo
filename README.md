@@ -32,7 +32,8 @@ While I manage 30+ branches of banking infrastructure—handling everything from
 ---
 
 ## 🛡️ Professional Certifications
-*(My Credly badges will appear here shortly...)*
+<!-- START_SECTION:badges -->
+<!-- END_SECTION:badges -->
 ---
 
 ## 🚀 Technical Toolbox
@@ -52,6 +53,31 @@ While I manage 30+ branches of banking infrastructure—handling everything from
 - 🤝 **Open to Volunteering:** Looking for opportunities to apply data analysis to social impact projects.
 
 ---
+
+---
+
+## 💡 A Little Byte of Humor
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Developer Joke" />
+</div>
+
+---
+
+## 🕹️ Etornyo's Internal System Logs
+| Module | Status | Log Entry |
+| :--- | :--- | :--- |
+| 🧠 **Brain** | `SEARCHING` | Looking for where I left that semicolon... |
+| ☕ **Fuel** | `CRITICAL` | Jollof levels low. Need immediate replenishment. |
+| 👁️ **Vision** | `TRAINING` | Currently teaching YOLOv8 that a cat is not a toaster. |
+| 🏦 **Work** | `HARDENED` | Servers are safe. Audit logs are watching you. 👀 |
+| 💤 **Sleep** | `404` | Not found during hackathon season. |
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Etornyo&label=PROFILE%20VIEWS&color=36BCF7&style=flat" alt="Views" />
+</div>
+
 
 ## 📊 GitHub Activity
 <div align="center">
