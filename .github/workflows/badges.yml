@@ -15,3 +15,4 @@ jobs:
         with:
           CREDLY_USER: etornyo-kwame-dzeke
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: ${{ github.repository }} # This tells the robot exactly where to save
