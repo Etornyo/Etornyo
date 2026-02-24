@@ -46,33 +46,46 @@ While I manage 30+ branches of banking infrastructure—handling everything from
 | **Cloud & Mobile** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
 
 ---
-
 ## 🛠️ Technology Stack
 
-### 🏦 Infrastructure & FinTech Security
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+<div align="center">
 
-### 🧠 AI, Data Science & Backend
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+### **Languages & Frameworks**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" width="45" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45" width="45" alt="FastAPI" title="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" width="45" alt="Flutter" title="Flutter" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="45" width="45" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="45" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" width="45" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" width="45" alt="Django" title="Django" /> -->
+</div>
 
-### 📱 Mobile & Frontend Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### **Infrastructure & Monitoring**
+<div>
+  <img src="https://img.shields.io/badge/Dell_VxRail-007DB8?style=for-the-badge&logo=dell&logoColor=white" alt="VxRail" title="Dell VxRail Hyper-converged Infrastructure" />
+  <img src="https://img.shields.io/badge/Ivanti-Patch_Manager-F15A22?style=for-the-badge&logo=ivanti&logoColor=white" alt="Ivanti" title="Ivanti Patch Management" />
+  <img src="https://img.shields.io/badge/PRTG-Network_Monitoring-99CC00?style=for-the-badge&logo=paessler&logoColor=white" alt="PRTG" title="PRTG Network Monitor" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" width="45" alt="Linux" title="Linux" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" width="45" alt="Docker" title="Docker" /> -->
+</div>
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### **AI/ML & Data Science**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" width="45" alt="TensorFlow" title="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" width="45" alt="PyTorch" title="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45" width="45" alt="OpenCV" title="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" width="45" alt="Pandas" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" width="45" alt="Jupyter" title="Jupyter" />
+</div>
 
+<p align="center">
+  <a href="https://zindi.africa/users/Zekhz">
+    <img src="https://img.shields.io/badge/Zindi-Data_Science_Competitor-36BCF7?style=flat-square&logo=zindi&logoColor=white" alt="Zindi Profile" />
+  </a>
+</p>
+
+</div>
 ---
 
 ## 🌱 Currently Learning & Volunteering
