@@ -120,7 +120,6 @@ While I manage 30+ branches of banking infrastructure—handling everything from
 </div>
 
 
-## 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Etornyo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
+## 🏎️ Performance Metrics (GitHub Activity)
+
+![Contribution Racetrack](./racetrack.svg)
