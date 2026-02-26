@@ -34,6 +34,7 @@ While I manage 30+ branches of banking infrastructure—handling everything from
 ## 🛡️ Professional Certifications
 <!-- START_SECTION:badges -->
 <!-- END_SECTION:badges -->
+
 ---
 
 ## 🚀 Technical Toolbox
