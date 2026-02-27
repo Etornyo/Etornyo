@@ -106,7 +106,9 @@ While I manage 30+ branches of banking infrastructure—handling everything from
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zekhz&label=PROFILE%20VIEWS&color=36BCF7&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Zekhz&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Zekhz?color=36BCF7&style=flat-square" />
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Zekhz?color=36BCF7&style=flat-square" />
 </div>
 
 ---
