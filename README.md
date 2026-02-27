@@ -33,6 +33,7 @@ While I manage 30+ branches of banking infrastructure—handling everything from
 
 ## 🛡️ Professional Certifications
 <!-- START_SECTION:badges -->
+
 <!-- END_SECTION:badges -->
 
 ---
@@ -87,14 +88,13 @@ While I manage 30+ branches of banking infrastructure—handling everything from
 </p>
 
 </div>
+
 ---
 
 ## 🌱 Currently Learning & Volunteering
 - 📊 **Zindi Data Science:** Actively competing in beginner challenges to refine my ML models.
 - 🔐 **API Security:** Mastering the OWASP API Top 10 to harden financial applications.
 - 🤝 **Open to Volunteering:** Looking for opportunities to apply data analysis to social impact projects.
-
----
 
 ---
 
@@ -120,7 +120,14 @@ While I manage 30+ branches of banking infrastructure—handling everything from
   <img src="https://komarev.com/ghpvc/?username=Etornyo&label=PROFILE%20VIEWS&color=36BCF7&style=flat" alt="Views" />
 </div>
 
+---
 
-## 🏎️ Performance Metrics (GitHub Activity)
+## 🏎️ Contribution Racetrack: Fuji Speedway
 
-![Contribution Racetrack](./racetrack.svg)
+<div align="center">
+  <img src="./racetrack.svg" alt="Fuji Speedway Contribution Animation" />
+</div>
+
+<p align="center">
+  <i>An automated visualization of my commit history mapped to the Fuji Speedway racing line.</i>
+</p>
