@@ -31,24 +31,7 @@ While I manage 30+ branches of banking infrastructure—handling everything from
 
 ---
 
-## 🛡️ Professional Certifications
-<!-- START_SECTION:badges -->
-
-<!-- END_SECTION:badges -->
-
----
-
-## 🚀 Technical Toolbox
-
-| Domain | Tools & Technologies |
-| :--- | :--- |
-| **Infrastructure** | ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows-server&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white) |
-| **Security & FinTech** | ![API Security](https://img.shields.io/badge/API_Security-FF0000?style=flat-square&logo=owasp&logoColor=white) ![PCI DSS](https://img.shields.io/badge/PCI_DSS-Compliance-gold?style=flat-square) ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white) |
-| **AI & Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| **Cloud & Mobile** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
-
----
-## 🛠️ Technology Stack
+## �️ Technology Stack
 
 <div align="center">
 
@@ -57,19 +40,25 @@ While I manage 30+ branches of banking infrastructure—handling everything from
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" width="45" alt="Python" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45" width="45" alt="FastAPI" title="FastAPI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" width="45" alt="Flutter" title="Flutter" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="45" width="45" alt="TypeScript" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="45" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" width="45" alt="React" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" width="45" alt="Django" title="Django" /> -->
 </div>
 
-### **Infrastructure & Monitoring**
+### **Cloud & Infrastructure**
 <div>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" title="Amazon Web Services" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" title="Google Cloud Platform" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white" alt="Windows Server" title="Windows Server" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" title="VMware" />
   <img src="https://img.shields.io/badge/Dell_VxRail-007DB8?style=for-the-badge&logo=dell&logoColor=white" alt="VxRail" title="Dell VxRail Hyper-converged Infrastructure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" width="45" alt="Linux" title="Linux" />
+</div>
+
+### **Security, Networking & Monitoring**
+<div>
+  <img src="https://img.shields.io/badge/API_Security-FF0000?style=for-the-badge&logo=owasp&logoColor=white" alt="API Security" title="OWASP API Security" />
+  <img src="https://img.shields.io/badge/PCI_DSS-Compliance-gold?style=for-the-badge" alt="PCI DSS" title="PCI DSS Compliance" />
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" title="Fortinet" />
   <img src="https://img.shields.io/badge/Ivanti-Patch_Manager-F15A22?style=for-the-badge&logo=ivanti&logoColor=white" alt="Ivanti" title="Ivanti Patch Management" />
   <img src="https://img.shields.io/badge/PRTG-Network_Monitoring-99CC00?style=for-the-badge&logo=paessler&logoColor=white" alt="PRTG" title="PRTG Network Monitor" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" width="45" alt="Linux" title="Linux" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" width="45" alt="Docker" title="Docker" /> -->
 </div>
 
 ### **AI/ML & Data Science**
@@ -94,7 +83,7 @@ While I manage 30+ branches of banking infrastructure—handling everything from
 ## 🌱 Currently Learning & Volunteering
 - 📊 **Zindi Data Science:** Actively competing in beginner challenges to refine my ML models.
 - 🔐 **API Security:** Mastering the OWASP API Top 10 to harden financial applications.
-- 🤝 **Open to Volunteering:** Looking for opportunities to apply data analysis to social impact projects.
+- 🤝 **Open to Volunteering:** Looking for opportunities to apply data analysis to social impact projects. Let's build something good—[Get in touch!](mailto:etordzeke@gmail.com)
 
 ---
 
@@ -117,7 +106,7 @@ While I manage 30+ branches of banking infrastructure—handling everything from
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Etornyo&label=PROFILE%20VIEWS&color=36BCF7&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Zekhz&label=PROFILE%20VIEWS&color=36BCF7&style=flat" alt="Views" />
 </div>
 
 ---
