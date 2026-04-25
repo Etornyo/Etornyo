@@ -2,9 +2,16 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+# Hello World! ET here
 
-###
+**Still Figuring things out**
+
+---
+
+## About Me
+I’m driven by a "crazy curiosity" to explore every corner of tech. I believe in building without boundaries and asking the hard questions until the pieces fit. I’m currently on a wild learning adventure, growing my skills one project at a time. If you’re down to support a curious mind or build something new, let’s connect!
+
+## Tech Stack So Far
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
@@ -55,11 +62,37 @@
 <img height="200" src="./assets/fe_man.jpg"  />
 </div>
 
-###
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Etornyo&theme=dracula" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Etornyo&theme=dracula" height="150" alt="trophy graph" />
+
+<a href="https://github.com/Etornyo">
+  <img alt="Etornyo's GitHub stats"
+       height="180"
+       src="https://github-readme-stats.vercel.app/api?username=Etornyo&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
+</a>
+<a href="https://github.com/Etornyo">
+  <img alt="Top programming languages"
+       height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Etornyo&layout=compact&langs_count=10&hide_border=true&cache_seconds=1800&title_color=0A66C2&text_color=c9d1d9&bg_color=0d1117" />
+</a>
+
+<br />
+
+<a href="https://github.com/Etornyo">
+  <img alt="GitHub streak"
+       src="https://streak-stats.demolab.com?user=Etornyo&theme=github-dark&hide_border=true&background=0d1117&stroke=0A66C2&ring=0A66C2&fire=FFD93D&currStreakLabel=0A66C2" />
+</a>
+
+<br /><br />
+
+<a href="https://github.com/Etornyo">
+  <img alt="GitHub trophies"
+       src="https://github-profile-trophy.vercel.app/?username=Etornyo&theme=github_dark&no-frame=true&column=7&margin-w=8&margin-h=8" />
+</a>
+
 </div>
 
 ###
