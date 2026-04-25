@@ -8,13 +8,13 @@ I’m driven by a "crazy curiosity" to explore every corner of tech. I believe i
 
 ---
 
-## About Me
-- Flutter dev
-- Data science with Python(Learning with DataCamp)
-- Computer vision for sign language
+## 🛠 About Me
+- 📱 **Flutter Developer** | Building high-fidelity mobile experiences.
+- 📊 **Data Science** | Exploring Python & ML (Learning via DataCamp).
+- 👁️ **Computer Vision** | Working on sign language recognition.
 
 
-## Tech Stack So Far
+## 🚀 Tech Stack So Far
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
@@ -87,18 +87,18 @@ I’m driven by a "crazy curiosity" to explore every corner of tech. I believe i
 <a href="https://github.com/Etornyo">
   <img alt="GitHub streak"
        src="https://streak-stats.demolab.com?user=Etornyo&theme=github-dark&hide_border=true&background=0d1117&stroke=0A66C2&ring=0A66C2&fire=FFD93D&currStreakLabel=0A66C2" />
-</a>
+<!-- </a>
 
 <br /><br />
 
 <a href="https://github.com/Etornyo">
   <img alt="GitHub trophies"
        src="https://github-profile-trophy.vercel.app/?username=Etornyo&theme=github_dark&no-frame=true&column=7&margin-w=8&margin-h=8" />
-</a>
+</a> -->
 
 </div>
 
-###
+### 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Etornyo/Etornyo/output/pacman-contribution-graph-dark.svg">
@@ -106,7 +106,7 @@ I’m driven by a "crazy curiosity" to explore every corner of tech. I believe i
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Etornyo/Etornyo/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<!-- ### Article
 
 <div align="center" style="width: 100%">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Etornyo/0">
@@ -118,7 +118,7 @@ I’m driven by a "crazy curiosity" to explore every corner of tech. I believe i
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Etornyo/2">
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Etornyo/2" alt="Medium post 3"  />
   </a>
-</div>
+</div> -->
 
 ---
 
