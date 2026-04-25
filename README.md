@@ -4,12 +4,15 @@
 
 # Hello World! ET here
 
-**Still Figuring things out**
+I’m driven by a "crazy curiosity" to explore every corner of tech. I believe in building without boundaries and asking the hard questions until the pieces fit. I’m currently on a wild learning adventure, growing my skills one project at a time. If you’re down to support a curious mind or build something new, let’s connect!
 
 ---
 
 ## About Me
-I’m driven by a "crazy curiosity" to explore every corner of tech. I believe in building without boundaries and asking the hard questions until the pieces fit. I’m currently on a wild learning adventure, growing my skills one project at a time. If you’re down to support a curious mind or build something new, let’s connect!
+- Flutter dev
+- Data science with Python(Learning with DataCamp)
+- Computer vision for sign language
+
 
 ## Tech Stack So Far
 
@@ -117,10 +120,15 @@ I’m driven by a "crazy curiosity" to explore every corner of tech. I believe i
   </a>
 </div>
 
+---
+
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Etornyo.Etornyo&"  />
+  <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=Etornyo.Etornyo&"  /> -->
+
+
+  ![Profile views](https://komarev.com/ghpvc/?username=Etornyo&label=Profile%20views&color=0A66C2&style=flat-square)
 </div>
 
 ###
