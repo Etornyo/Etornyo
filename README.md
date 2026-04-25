@@ -98,7 +98,7 @@ I’m driven by a "crazy curiosity" to explore every corner of tech. I believe i
 
 </div>
 
-### 
+### Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Etornyo/Etornyo/output/pacman-contribution-graph-dark.svg">
