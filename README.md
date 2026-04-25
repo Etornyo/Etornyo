@@ -106,6 +106,13 @@ I’m driven by a "crazy curiosity" to explore every corner of tech. I believe i
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Etornyo/Etornyo/output/pacman-contribution-graph.svg">
 </picture>
 
+## Under construction
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="50" height="50" />
+  <br />
+  <b>Currently refactoring my wild adventure... Check back soon!</b>
+</p>
+
 <!-- ### Article
 
 <div align="center" style="width: 100%">
