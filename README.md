@@ -65,7 +65,7 @@ I’m driven by a "crazy curiosity" to explore every corner of tech. I believe i
 <img height="200" src="./assets/fe_man.jpg"  />
 </div>
 
----
+
 
 ## GitHub Stats
 
