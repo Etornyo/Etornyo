@@ -1,8 +1,5 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey! ET here 👋What's Up?</h1>
 
-###
-
-# Hello World! ET here
 
 I’m driven by a "crazy curiosity" to explore every corner of tech. I believe in building without boundaries and asking the hard questions until the pieces fit. I’m currently on a wild learning adventure, growing my skills one project at a time. If you’re down to support a curious mind or build something new, let’s connect!
 
